@@ -70,6 +70,10 @@ public class LoginActivity extends AppCompatActivity{
     }
 
 
+    private void bbb(){
+
+    }
+
     private void setBackgroundPainter(){
         View backgroundImage = findViewById(R.id.background);
 
