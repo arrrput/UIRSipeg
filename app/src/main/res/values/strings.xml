@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UIR Sipeg</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_pencarian">PencarianActivity</string>
+    <string name="action_pencarian">Pencarian</string>
+</resources>
